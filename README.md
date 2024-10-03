@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu kauane
+Meu nome é kauane
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
